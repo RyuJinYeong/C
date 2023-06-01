@@ -1,0 +1,5 @@
+﻿  lab10_3.c
+c:\users\hallym\desktop\c_류진영_20185237_10\project1\project1\lab10_3.c(5): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+c:\users\hallym\desktop\c_류진영_20185237_10\project1\project1\lab10_3.c(7): warning C4048: 배열 첨자가 다릅니다. 'float (*)[3]'과(와) 'float (*)[2]'
+c:\users\hallym\desktop\c_류진영_20185237_10\project1\project1\lab10_3.c(6): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+  Project1.vcxproj -> C:\Users\hallym\Desktop\C_류진영_20185237_10\Project1\Debug\Project1.exe
